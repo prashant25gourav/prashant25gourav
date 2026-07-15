@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Prashant 
 
-<!--
-**prashant25gourav/prashant25gourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> curious by design.
 
-Here are some ideas to get you started:
+Computer Science undergraduate with an interest in building software and understanding the systems behind it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe strong fundamentals create long-term opportunities. This GitHub is where I document that journey through projects, experiments, and continuous learning.
+
+Whether I'm exploring software engineering, systems, artificial intelligence, or new technologies, my goal remains the same:
+
+**Build thoughtfully. Learn continuously. Stay curious.**
+
+📫 prashantgourav2502@gmail.com
+
+🔗 linkedin.com/in/prashantgourav

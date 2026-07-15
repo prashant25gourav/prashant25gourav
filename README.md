@@ -1,15 +1,30 @@
-# Hi, I'm Prashant 
+# Hi, I'm Prashant 👋
 
-> curious by design.
+> *curious by design.*
 
-Computer Science undergraduate with an interest in building software and understanding the systems behind it.
+Computer Science undergraduate interested in building reliable software and understanding the principles behind how it works.
 
 I believe strong fundamentals create long-term opportunities. This GitHub is where I document that journey through projects, experiments, and continuous learning.
 
-Whether I'm exploring software engineering, systems, artificial intelligence, or new technologies, my goal remains the same:
+---
 
-**Build thoughtfully. Learn continuously. Stay curious.**
+### Areas of Interest
 
-📫 prashantgourav2502@gmail.com
+- Software Engineering
+- Computer Science Fundamentals
+- Systems
+- Problem Solving
 
-🔗 linkedin.com/in/prashantgourav
+---
+
+### Philosophy
+
+> Build thoughtfully.  
+> Learn continuously.  
+> Stay curious.
+
+---
+
+📫 **Email:** prashantgourav2502@gmail.com
+
+🔗 **LinkedIn:** https://linkedin.com/in/prashantgourav
